@@ -1,4 +1,8 @@
 # Log Format
 # XCXC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 20 L01 Scele/Discord related
+ZCZC W00 100 L02 Zoom Meetings related
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 15 L03 GitHub Pages related
+ZCZC W00 120 L06 References/Documents/GSGS related
