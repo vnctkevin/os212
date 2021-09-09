@@ -8,7 +8,7 @@ permalink: /LINKS/
 
 
 This is Kevin ([@vnctkevin](https://github.com/vnctkevin/))'s OS212 Link Page
-All contents is a result of so many years, months, weeks, days, hours, and minutes of GSGSCICI*
+All contents is a result of so many years, months, weeks, days, hours, and minutes of GSGSCICI*<br>
 _*Google Sana, Google Sini, Coba Ini, Coba Itu_
 
 ## Week 01 (5/09/21 - 12/09/21)
