@@ -1,6 +1,8 @@
 ---
-permalink: /LINKS/.
+layout: "layout"
+permalink: /LINKS/
 ---
+
 # Links
 ## _Kevin's OS212 Link Collection_
 
