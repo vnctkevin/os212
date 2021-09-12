@@ -1,4 +1,7 @@
-
+---
+layout: "layout"
+permalink: /README/
+---
 # os212
  Operating Systems 2021-2 (Odd Semester 2021/2022)
  
@@ -6,21 +9,12 @@
 
 You can see my OS212 Github Repository, Github Page, and the Log here:
 * My OS212 Github Repository -> [Click Here](https://github.com/vnctkevin/os212)
-* My OS212 Github Page -> [Also Click Here!](https://vnctkevin.github.io/os212)
+* My OS212 Index Github Page -> [Also Click Here!](https://vnctkevin.github.io/os212)
 * My OS212 Log -> [Yea, Click Here..](https://vnctkevin.github.io/os212/TXT/mylog.txt)
 
 ## Operating Systems Course Activity
-* Week 00
-* Week 01
-* Week 02
-* Week 03
-* Week 04
-* Week 05
-* Week 06
-* Week 07
-* Week 08
-* Week 09
-* Week 10
+* [Links Page](https://vnctkevin.github.io/os212/LINKS/)
+
 
 
 ## About me
