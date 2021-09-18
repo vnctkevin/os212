@@ -32,8 +32,22 @@ Bash (The Bourne Again SHell) is a Unix shell that operates around a kernel (as 
 7. [Another Bash Crash Course](https://opensource.com/resources/what-bash)<br>
 Bash is a legitimate interface to your computer, and it's not just for server admins and programmers. It can be your desktop, your word processor, your graphics editing application, and much, much more. Some people use Bash more than they use desktop apps.
 
+## Week 02 (12/09/21 - 19/09/21)
 
+1. [Quick and Drity Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf) <br>
+A PDF cheat sheet for all the things C.
 
+2. [SHA256SUM Encryption in 5 minutes](https://www.youtube.com/watch?v=YExLVWGEckA) <br>
+A demo of SHA256SUM encryption in 5 minutes.
+
+3. [SHA-256 Algorithm Overview](https://www.n-able.com/blog/sha-256-encryption)
+The SHA-256 algorithm is one flavor of SHA-2 (Secure Hash Algorithm 2), which was created by the National Security Agency in 2001 as a successor to SHA-1. SHA-256 is a patented cryptographic hash function that outputs a value that is 256 bits long.
+
+4. [Cryptography : Crash Course](https://www.youtube.com/watch?v=jhXCTbFnK8o) <br>
+From Caesar's Cipher to Enigma, Cryptography has a long history of being a way of securing sent messages and information. Cryptography is associated with the process of converting plain text into unintelligible cipher text and vice-versa.
+
+5. [An overview of Cryptography by Gary C. Kessler](https://www.garykessler.net/library/crypto.html) <br>
+This paper has two major purposes. The first is to define some of the terms and concepts behind basic cryptographic methods, and to offer a way to compare the myriad cryptographic schemes in use today. The second is to provide some real examples of cryptography in use today.
 
 ## Credits
 This page is created using Markdown language with the help of [Dillinger](https://dillinger.io/). Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.
