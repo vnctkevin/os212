@@ -7,7 +7,7 @@ permalink: /LINKS/
 ## _Kevin's OS212 Link Collection_
 
 
-This is Kevin ([@vnctkevin](https://github.com/vnctkevin/))'s OS212 Link Page
+This is Kevin ([@vnctkevin](https://github.com/vnctkevin/))'s OS212 Link Page <br>
 All contents is a result of so many years, months, weeks, days, hours, and minutes of GSGSCICI*<br>
 _*Google Sana, Google Sini, Coba Ini, Coba Itu_
 
@@ -40,7 +40,7 @@ A PDF cheat sheet for all the things C.
 2. [SHA256SUM Encryption in 5 minutes](https://www.youtube.com/watch?v=YExLVWGEckA) <br>
 A demo of SHA256SUM encryption in 5 minutes.
 
-3. [SHA-256 Algorithm Overview](https://www.n-able.com/blog/sha-256-encryption)
+3. [SHA-256 Algorithm Overview](https://www.n-able.com/blog/sha-256-encryption) <br>
 The SHA-256 algorithm is one flavor of SHA-2 (Secure Hash Algorithm 2), which was created by the National Security Agency in 2001 as a successor to SHA-1. SHA-256 is a patented cryptographic hash function that outputs a value that is 256 bits long.
 
 4. [Cryptography : Crash Course](https://www.youtube.com/watch?v=jhXCTbFnK8o) <br>
