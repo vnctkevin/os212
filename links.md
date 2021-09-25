@@ -49,5 +49,23 @@ From Caesar's Cipher to Enigma, Cryptography has a long history of being a way o
 5. [An overview of Cryptography by Gary C. Kessler](https://www.garykessler.net/library/crypto.html) <br>
 This paper has two major purposes. The first is to define some of the terms and concepts behind basic cryptographic methods, and to offer a way to compare the myriad cryptographic schemes in use today. The second is to provide some real examples of cryptography in use today.
 
+## Week 03 (19/09/21 - 26/09/21)
+
+1. [FIle Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/) <br>
+File systems is a rather interesting and remote part of Operating System I've learnt so far. This article helps me to understand about File System.
+
+2. [Linux File System](https://likegeeks.com/linux-file-system/) <br>
+Another easy guide to learn about file system, spesifically, Linux File Systems. This article also contains explanation about Linux File System Directories.
+
+3. [Linux File Systems Basics](https://www.dummies.com/computers/operating-systems/linux/linux-file-system-basics/) <br>
+Another overview about Linux File System. This spesific article also contains key directories and commands to help understand Linux File System.
+
+4. [How to navigate your system in Linux/Unix.](https://www.youtube.com/watch?v=cBokz0LTizk) <br>
+A demo and explanation about navigating your system in Linux using CLI.
+
+5. [Bonus : Windows File System](https://www.partitionwizard.com/help/what-is-file-system.html) <br>
+To learn more about File System in another platform outside Linux, this article is a vast explanation about Windows File System.
+
+
 ## Credits
 This page is created using Markdown language with the help of [Dillinger](https://dillinger.io/). Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.
