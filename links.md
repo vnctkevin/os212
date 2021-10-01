@@ -66,6 +66,25 @@ A demo and explanation about navigating your system in Linux using CLI.
 5. [Bonus : Windows File System](https://www.partitionwizard.com/help/what-is-file-system.html) <br>
 To learn more about File System in another platform outside Linux, this article is a vast explanation about Windows File System.
 
+## Week 04 (26/09/21 - 02/10/21)
+
+1. [Pointers in C Programming](https://www.guru99.com/c-pointers.html) <br>
+The Pointer in C, is a variable that stores address of another variable. The purpose of pointer is to save memory space and achieve faster execution time.
+
+2. [Address of A Variable](https://www.codingame.com/playgrounds/14589/how-to-play-with-pointers-in-c/address-of-a-variable) <br>
+Another guide to learn about pointers in C. This article also contains codes and demos of addressing and pointers.
+
+3. [C Programming Tutorial - 32: Address of Operator](https://www.youtube.com/watch?v=W1FHoRJiZ-o) <br>
+Another overview about Linux File System. This spesific article also contains key directories and commands to help understand Linux File System.
+
+4. [Operations on Pointers-C Programming Language](https://www.youtube.com/watch?v=cBokz0LTizk) <br>
+Pointers can also performs arithmetic operations. This article helps me to learn about Increment, Addition, Substraction, and Comparison Operation in C Pointers.
+
+5. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779) <br>
+To learn more about Linux Libraries, this article explains all about Static and Shared/Dynamic Libraries in Linux.
+
+6. [Bonus : C Programming and UNIX](https://www.cs.miami.edu/home/schulz/CSC322.pdf) <br>
+This PDF e-book contains the basics of C Programming and UNIX. The explanations include the history, the "why"s, the systems, the architecture, and a lot more.
 
 ## Credits
 This page is created using Markdown language with the help of [Dillinger](https://dillinger.io/). Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.
