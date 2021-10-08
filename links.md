@@ -66,7 +66,7 @@ A demo and explanation about navigating your system in Linux using CLI.
 5. [Bonus : Windows File System](https://www.partitionwizard.com/help/what-is-file-system.html) <br>
 To learn more about File System in another platform outside Linux, this article is a vast explanation about Windows File System.
 
-## Week 04 (26/09/21 - 02/10/21)
+## Week 04 (26/09/21 - 03/10/21)
 
 1. [Pointers in C Programming](https://www.guru99.com/c-pointers.html) <br>
 The Pointer in C, is a variable that stores address of another variable. The purpose of pointer is to save memory space and achieve faster execution time.
@@ -85,6 +85,24 @@ To learn more about Linux Libraries, this article explains all about Static and 
 
 6. [Bonus : C Programming and UNIX](https://www.cs.miami.edu/home/schulz/CSC322.pdf) <br>
 This PDF e-book contains the basics of C Programming and UNIX. The explanations include the history, the "why"s, the systems, the architecture, and a lot more.
+
+## Week 04 (26/09/21 - 03/10/21)
+
+1. [C Library Printf Function](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) <br>
+The C String Formatting is important in order to create a better I/O experience through command line. This article helps me to understand the C string formatting syntax better.
+
+2. [Virtual Memory in Operating System](https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.3/html_chapter/libc_3.html) <br>
+The concept of Virtual Memory is an important aspect of Operating System. This article from GFG explains all about the what(s) and the how(s).
+
+3. [Virtual Memory Allocation And Paging](https://www.youtube.com/watch?v=W1FHoRJiZ-o) <br>
+The GNU C Library has several functions for dynamically allocating virtual memory in various ways. They vary in generality and in efficiency. The library also provides functions for controlling paging and allocation of real memory.
+
+4. [Hack the Virtual Memory : The C Guide to Virtual Memory](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)<br>
+There's no better way to understand the Virtual Memory other than demonstrate it properly. This comprehensive article took me on an in-depth overview of virtual memory allocation and paging in C language.
+
+5. [Another virtual memory lecture slide](https://www.inf.ed.ac.uk/teaching/courses/inf2c-cs/13-14/lectures/lec13-slides.pdf)<br>
+Another lecture slide to summarize all about virtual memory.
+
 
 ## Credits
 This page is created using Markdown language with the help of [Dillinger](https://dillinger.io/). Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.
