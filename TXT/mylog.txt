@@ -69,3 +69,15 @@ ZCZC W05 120 L09 Assignment in General
 ZCZC W05 90 L21 Trying something
 ZCZC W05 60 L25 Scripting
 ZCZC W05 90 L32 YouTube: study, etc.
+ZCZC W06 20 L00 General, etc.
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 20 L03 GitHub related
+ZCZC W06 10 L04 GitHub Pages related
+ZCZC W06 45 L05 Quiz related
+ZCZC W06 120 L06 References/Books/Documents/GSGS related
+ZCZC W06 120 L09 Assignment in General
+ZCZC W06 120 L21 Trying something
+ZCZC W06 30 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 20 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W06 30 L32 YouTube: study, etc.

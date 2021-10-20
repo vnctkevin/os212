@@ -66,7 +66,7 @@ A demo and explanation about navigating your system in Linux using CLI.
 5. [Bonus : Windows File System](https://www.partitionwizard.com/help/what-is-file-system.html) <br>
 To learn more about File System in another platform outside Linux, this article is a vast explanation about Windows File System.
 
-## Week 04 (26/09/21 - 03/10/21)
+## Week 04 (26/09/21 - 04/10/21)
 
 1. [Pointers in C Programming](https://www.guru99.com/c-pointers.html) <br>
 The Pointer in C, is a variable that stores address of another variable. The purpose of pointer is to save memory space and achieve faster execution time.
@@ -86,7 +86,7 @@ To learn more about Linux Libraries, this article explains all about Static and 
 6. [Bonus : C Programming and UNIX](https://www.cs.miami.edu/home/schulz/CSC322.pdf) <br>
 This PDF e-book contains the basics of C Programming and UNIX. The explanations include the history, the "why"s, the systems, the architecture, and a lot more.
 
-## Week 04 (26/09/21 - 03/10/21)
+## Week 05 (04/10/21 - 11/10/21)
 
 1. [C Library Printf Function](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm) <br>
 The C String Formatting is important in order to create a better I/O experience through command line. This article helps me to understand the C string formatting syntax better.
@@ -102,6 +102,30 @@ There's no better way to understand the Virtual Memory other than demonstrate it
 
 5. [Another virtual memory lecture slide](https://www.inf.ed.ac.uk/teaching/courses/inf2c-cs/13-14/lectures/lec13-slides.pdf)<br>
 Another lecture slide to summarize all about virtual memory.
+
+
+## Week 06 (11/10/21 - 31/10/21)
+
+1. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) <br>
+Concurrency is the execution of the multiple instruction sequences at the same time. This article gives insights about the process, pros, and cons of Concurrency.
+
+2. [More about Concurrency](https://begriffs.com/posts/2020-03-23-concurrent-programming.html#concurrency-vs-parallelism) <br>
+Also about concurrency, this complete and comprehensive article explains all about the concept of Concurrency, Parallelism, and all the benefit and problem of concurrent processes. This article also contains examplary C program of concurrency.
+
+3. [Multithreading in C](https://www.tutorialspoint.com/multithreading-in-c) <br>
+Multithreading is a specialized form of multitasking and a multitasking is the feature that allows your computer to run two or more programs concurrently. In general, there are two types of multitasking: process-based and thread-based.
+
+4. [fork() System Call](https://www.geeksforgeeks.org/fork-system-call/) <br>
+Fork system call is used for creating a new process, which is called child process, which runs concurrently with the process that makes the fork() call (parent process). In the recurring theme of concurrency, fork() creates a new process in which the operating system allocates different data and states for these two processes, and the control flow of these processes can be different.
+
+5. [Single-threaded and Multi-threaded Processes](https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes) <br>
+Single threaded processes contain the execution of instructions in a single sequence. The opposite of single threaded processes are multithreaded processes. These processes allow the execution of multiple parts of a program at the same time. These are lightweight processes available within the process.
+
+6. [Concepts in Multicore Programming](https://www.mathworks.com/help/simulink/ug/concepts-in-multicore-programming.html) <br>
+Multicore programming helps you create concurrent systems for deployment on multicore processor and multiprocessor systems. A multicore processor system is a single processor with multiple execution cores in one chip. 
+
+7. [Multicore Programming : From Threads to Transactional Memory](https://www.mathworks.com/help/simulink/ug/concepts-in-multicore-programming.html) <br>
+This tutorial slide contains everything about Multicore Programming Implementation in real world as we know it.
 
 
 ## Credits
