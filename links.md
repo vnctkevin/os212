@@ -127,6 +127,26 @@ Multicore programming helps you create concurrent systems for deployment on mult
 7. [Multicore Programming : From Threads to Transactional Memory](https://www.mathworks.com/help/simulink/ug/concepts-in-multicore-programming.html) <br>
 This tutorial slide contains everything about Multicore Programming Implementation in real world as we know it.
 
+## Week 07 (01/11/21 - 07/10/21)
+
+1. [Process Synchronization in Operating Systems: Definition & Mechanisms](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html) <br>
+Process Synchronization is a way to coordinate processes that use shared data. It occurs in an operating system among cooperating processes. This article explains the basics of process synchronization in OS.
+
+2. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
+Also about synchronization, this complete and comprehensive article explains all about the concept of synchronization, and the usecases of synchronization.
+
+3. [The Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem) <br>
+Critical Section is the part of a program which tries to access shared resources. That resource may be any resource in a computer like a memory location, Data structure, CPU or any IO device.
+
+4. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) <br>
+Peterson’s Algorithm is used to synchronize two processes. It uses two variables, a bool array flag of size 2 and an int variable turn to accomplish it. This is one of the ways to deal with The Critical Section Problem.
+
+5. [Peterson’s Solution by Neso Academy](https://www.youtube.com/watch?v=gYCiTtgGR5Q) <br>
+This video also contains explanations and demos about Peterson's Solution. 
+
+6. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) <br>
+Semaphore was proposed by Dijkstra in 1965 which is a very significant technique to manage concurrent processes by using a simple integer value, which is known as a semaphore.
+
 
 ## Credits
 This page is created using Markdown language with the help of [Dillinger](https://dillinger.io/). Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.
