@@ -147,6 +147,23 @@ This video also contains explanations and demos about Peterson's Solution.
 6. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) <br>
 Semaphore was proposed by Dijkstra in 1965 which is a very significant technique to manage concurrent processes by using a simple integer value, which is known as a semaphore.
 
+## Week 08 (08/11/21 - 14/10/21)
+
+1. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) <br>
+The process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
+
+2. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
+The process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
+
+2. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
+In multiple processor scheduling there are cases when the processors are identical i.e. HOMOGENEOUS, in terms of their functionality, we can use any processor available to run any process in the queue.
+
+3. [Multiple-Processor Scheduling in Operating System by Xoviabcs](https://www.youtube.com/watch?v=aKjDqOguxjA&ab_channel=Xoviabcs) <br>
+Another video lecture about multi-processor scheduling.
+
+4. [Process State Models in Operating System](https://slaystudy.com/process-state-models-in-operating-system/) <br>
+Two State Process Model consists of two states: Not-running state and Running state.
+
 
 ## Credits
 This page is created using Markdown language with the help of [Dillinger](https://dillinger.io/). Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.

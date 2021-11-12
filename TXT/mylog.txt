@@ -97,3 +97,17 @@ ZCZC W07 30 L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W07 20 L28 SSH, key-gen, tunneling, putty, winscp
 ZCZC W07 100 L32 YouTube: study, etc.
 ZCZC W07 60 L64 Helping OS related problem to a friend.
+ZCZC W08 20 L00 General, etc.
+ZCZC W08 20 L01 SCELE/Discord related
+ZCZC W08 60 L02 ZOOM meetings related
+ZCZC W08 10 L03 GitHub related
+ZCZC W08 10 L04 GitHub Pages related
+ZCZC W08 60 L05 Quiz related
+ZCZC W08 60 L06 References/Books/Documents/GSGS related
+ZCZC W08 150 L09 Assignment in General
+ZCZC W08 60 L21 Trying something
+ZCZC W08 15 L23 Linux CLI including tar, etc.
+ZCZC W08 30 L25 Scripting
+ZCZC W08 30 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 20 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W08 20 L64 Helping OS related problem to a friend.
