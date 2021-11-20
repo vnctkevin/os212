@@ -147,7 +147,7 @@ This video also contains explanations and demos about Peterson's Solution.
 6. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) <br>
 Semaphore was proposed by Dijkstra in 1965 which is a very significant technique to manage concurrent processes by using a simple integer value, which is known as a semaphore.
 
-## Week 08 (08/11/21 - 14/10/21)
+## Week 08 (08/11/21 - 14/11/21)
 
 1. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) <br>
 The process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
@@ -155,14 +155,32 @@ The process scheduling is the activity of the process manager that handles the r
 2. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) <br>
 The process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
 
-2. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
+3. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) <br>
 In multiple processor scheduling there are cases when the processors are identical i.e. HOMOGENEOUS, in terms of their functionality, we can use any processor available to run any process in the queue.
 
-3. [Multiple-Processor Scheduling in Operating System by Xoviabcs](https://www.youtube.com/watch?v=aKjDqOguxjA&ab_channel=Xoviabcs) <br>
+4. [Multiple-Processor Scheduling in Operating System by Xoviabcs](https://www.youtube.com/watch?v=aKjDqOguxjA&ab_channel=Xoviabcs) <br>
 Another video lecture about multi-processor scheduling.
 
-4. [Process State Models in Operating System](https://slaystudy.com/process-state-models-in-operating-system/) <br>
+5. [Process State Models in Operating System](https://slaystudy.com/process-state-models-in-operating-system/) <br>
 Two State Process Model consists of two states: Not-running state and Running state.
+
+
+## Week 09 (15/11/21 - 21/10/21)
+
+1. [Memory Storage and Management](https://computer.howstuffworks.com/operating-system7.htm) <br>
+The operating system must balance the needs of the various processes with the availability of the different types of memory, moving data in blocks called pages between available memory as the schedule of processes dictates.
+
+2. [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/) <br>
+The design of a complete memory system must balance all the factors. It must use only as much expensive memory as necessary while providing as much inexpensive, Non-Volatile memory as possible. 
+
+3. [Firmware and bootloader](https://rose.telecom-paristech.fr/2012/wp-content/uploads/2012/03/Firmwares-and-bootloaders.pdf) <br>
+The main purpose of this paper is to make a review on embedded bootloaders and firmware.
+
+4. [What Is a Bootloader? How Does a Bootloader Work?](https://www.makeuseof.com/what-is-a-bootloader/) <br>
+A bootloader helps to load the operating system or runtime environment to add programs to memory and provide access for components. It is needed to run the startup process, initialize the hardware, and pass control to the kernel, which initializes the operating system.
+
+5. [LFS 11.0 Chapter 7](https://www.youtube.com/watch?v=rVj1xtWOtDs&t=431s) <br>
+A comprehensive guide to do the LFS Chapter 7.
 
 
 ## Credits
